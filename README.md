@@ -1,4 +1,4 @@
-# Quebrador de Código de 6 dígitos 🖥️
+# Detector de Código de 6 dígitos 🖥️
 É um programa de console para desktop que começa com o usuário inserindo um código numérico de 6 dígitos; após a 
 inserção do código, o programa irá inserir números de forma randômica (de 100.000 até 999.999, que são os que possuem 6 dígitos) e 
 ao detectar que inseriu um código igual ao do usuário, irá parar a execução, informar que encontrou o código e exibir o tempo em segundos que a detetcção levou.
